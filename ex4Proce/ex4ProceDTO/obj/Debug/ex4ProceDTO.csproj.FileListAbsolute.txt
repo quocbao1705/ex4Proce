@@ -1,0 +1,6 @@
+D:\LTCSDL\ex4ProceGUI\ex4ProceDTO\bin\Debug\ex4ProceDTO.dll
+D:\LTCSDL\ex4ProceGUI\ex4ProceDTO\bin\Debug\ex4ProceDTO.pdb
+D:\LTCSDL\ex4ProceGUI\ex4ProceDTO\obj\Debug\ex4ProceDTO.csproj.AssemblyReference.cache
+D:\LTCSDL\ex4ProceGUI\ex4ProceDTO\obj\Debug\ex4ProceDTO.csproj.CoreCompileInputs.cache
+D:\LTCSDL\ex4ProceGUI\ex4ProceDTO\obj\Debug\ex4ProceDTO.dll
+D:\LTCSDL\ex4ProceGUI\ex4ProceDTO\obj\Debug\ex4ProceDTO.pdb
